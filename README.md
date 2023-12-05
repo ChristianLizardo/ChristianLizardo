@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1>Hi, I'm Christian! 
+ 
+    IT Professional, seeking IT Specialist, System Admin, and SOC Analyst Roles 
+                   
+  <br/><a href="https://github.com/christianlizardo"></a>
 
-<!--
-**ChristianLizardo/ChristianLizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects Projects:</h2>
 
-Here are some ideas to get you started:
+<b>Microsoft Azure</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Network Security Group (NSGs) and Inspecting Traffic Between Azure Virtual Machines </b>
+  - [Azure Network Protocols](https://github.com/christianlizardo/Azure-network-protocols)  <b><i> </b></i>
+    
+    
+- <b>Configuring Active Directory Within Azure </b>
+  - [Configure Active Directory ](https://github.com/christianlizardo/configure-active-directory) <b><i> </b></i>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Basic Installation](https://github.com/christianlizardo/Osticket-installation)
+  - [osTicket: Post- Installation Configuration](https://github.com/christianlizardo/osTicket-Post)
+  - [osTicket: Ticket Lifecycle ](https://github.com/christianlizardo/TLC)
+    
+<h2>Cyber Security Projects </h2>
+
+- <b>Microsoft Azure</b>
+  - [Creating a simulated live Honeynet](https://github.com/christianlizardo/CL-Honeynet) <b><i> </b></i> 
+
+<h2> Certifications </h2> 
+
+- CompTIA A+
+- CompTIA N+
+- ITIL V4 
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[Linkedin](https://www.linkedin.com/in/clizardo96/) 
