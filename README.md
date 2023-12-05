@@ -22,11 +22,11 @@ IT Professional, seeking IT Specialist, System Admin, and SOC Analyst Roles
 <h2>Cyber Security Projects </h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a simulated live Honeynet](https://github.com/christianlizardo/CL-Honeynet) <b><i> </b></i> 
+  - [Creating a simulated live Honeynet SIEMS ](https://github.com/christianlizardo/CL-Honeynet) <b><i> </b></i> 
 
 <h2> Certifications </h2> 
 
-- CompTIA A+
+- CompTIA A+ 
 - CompTIA N+
 - ITIL V4 
 
