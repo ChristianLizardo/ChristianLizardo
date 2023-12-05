@@ -4,7 +4,7 @@ IT Professional, seeking IT Specialist, System Admin, and SOC Analyst Roles
                    
   <br/><a href="https://github.com/christianlizardo"></a>
 
-<h2>👨‍💻 Information Technology Projects Projects:</h2>
+<h2>👨‍💻 Information Technology Projects </h2>
 
 <b>Microsoft Azure</b>
 
