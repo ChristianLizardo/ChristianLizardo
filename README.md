@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian! 
- 
-    IT Professional, seeking IT Specialist, System Admin, and SOC Analyst Roles 
+
+IT Professional, seeking IT Specialist, System Admin, and SOC Analyst Roles 
                    
   <br/><a href="https://github.com/christianlizardo"></a>
 
