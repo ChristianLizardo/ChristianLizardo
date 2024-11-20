@@ -27,7 +27,7 @@ IT Professional and coffee snob .
 <h2> Certifications </h2> 
 
 - CompTIA A+ 
-- CompTIA N+
+- CompTIA Network+
 - ITIL V4 
 
 <h2> 🤳 Connect with me:</h2>
