@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian! 
 
-IT Professional, seeking Entry Level Help Desk, Technical Support Engineer ,  System Admin, and SOC Analyst Roles 
+IT Professional and coffee snob . 
                    
   <br/><a href="https://github.com/christianlizardo"></a>
 
