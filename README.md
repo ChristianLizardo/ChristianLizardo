@@ -22,7 +22,7 @@ IT Professional and coffee snob .
 <h2>Cyber Security Projects </h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a simulated live Honeynet SIEMS ](https://github.com/christianlizardo/CL-Honeynet) <b><i> </b></i> 
+  - [Creating a Live Honeynet in Azure](https://github.com/christianlizardo/CL-Honeynet) <b><i> </b></i> 
 
 <h2> Certifications </h2> 
 
