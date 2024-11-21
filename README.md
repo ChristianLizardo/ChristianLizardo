@@ -13,7 +13,7 @@ IT Professional and coffee snob .
     
     
 - <b>Configuring Active Directory Within Azure </b>
-  - [Configure-Active-Directory ](https://github.com/christianlizardo/configure-active-directory) <b><i> </b></i>
+  - [Configure Active Directory ](https://github.com/christianlizardo/configure-active-directory) <b><i> </b></i>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Basic Installation](https://github.com/christianlizardo/Osticket-installation)
   - [osTicket: Post- Installation Configuration](https://github.com/christianlizardo/osTicket-Post)
