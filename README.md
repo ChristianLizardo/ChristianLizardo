@@ -17,7 +17,7 @@ IT Professional and coffee snob .
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Basic Installation](https://github.com/christianlizardo/Osticket-installation)
   - [osTicket: Post- Installation Configuration](https://github.com/christianlizardo/osTicket-Post)
-  - [osTicket: Ticket Lifecycle ](https://github.com/christianlizardo/TLC)
+  - [osTicket: Ticket Lifecycle ](https://github.com/ChristianLizardo/osTicket-Ticket-Lifecycle)
     
 <h2>Cyber Security Projects </h2>
 
