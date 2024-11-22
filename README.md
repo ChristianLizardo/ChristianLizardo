@@ -26,7 +26,7 @@ IT Professional and coffee snob .
 
 <h2> Certifications </h2> 
 
-![download-1](https://github.com/user-attachments/assets/f21c7cb2-0aed-4cea-94f1-2782751e4b16)  ![download-2](https://github.com/user-attachments/assets/75bc0532-4fbc-461e-b140-7c79f8ab2dd7)
+![download-1](https://github.com/user-attachments/assets/f21c7cb2-0aed-4cea-94f1-2782751e4b16)       ![download-2](https://github.com/user-attachments/assets/75bc0532-4fbc-461e-b140-7c79f8ab2dd7)
 
 - ITIL V4 
 
