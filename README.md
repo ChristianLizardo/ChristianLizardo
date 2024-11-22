@@ -22,7 +22,7 @@ IT Professional and coffee snob .
 <h2>Cyber Security Projects </h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Live Honeynet in Azure](https://github.com/christianlizardo/CL-Honeynet) <b><i> </b></i> 
+  - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure) <b><i> </b></i> 
 
 <h2> Certifications </h2> 
 
