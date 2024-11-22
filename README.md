@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian! 
 
-IT Professional and coffee snob . 
+IT professional with a passion for technology and a deep appreciation for a good cup of coffee
                    
   <br/><a href="https://github.com/christianlizardo"></a>
 
@@ -19,7 +19,7 @@ IT Professional and coffee snob .
   - [osTicket: Post- Installation Configuration](https://github.com/christianlizardo/osTicket-Post)
   - [osTicket: Ticket Lifecycle ](https://github.com/ChristianLizardo/osTicket-Ticket-Lifecycle)
     
-<h2>Cyber Security Projects </h2>  ![download](https://github.com/user-attachments/assets/729f6fbe-ecc1-4a05-9657-8c46bc3dc57d) 
+<h2>Cyber Security Projects </h2> 
 
 - <b>Microsoft Azure</b>
   - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure) <b><i> </b></i> 
