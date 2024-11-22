@@ -19,7 +19,7 @@ IT Professional and coffee snob .
   - [osTicket: Post- Installation Configuration](https://github.com/christianlizardo/osTicket-Post)
   - [osTicket: Ticket Lifecycle ](https://github.com/ChristianLizardo/osTicket-Ticket-Lifecycle)
     
-<h2>Cyber Security Projects </h2>
+<h2>Cyber Security Projects </h2>  ![download](https://github.com/user-attachments/assets/729f6fbe-ecc1-4a05-9657-8c46bc3dc57d) 
 
 - <b>Microsoft Azure</b>
   - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure) <b><i> </b></i> 
@@ -30,7 +30,7 @@ IT Professional and coffee snob .
 
 ![download-2](https://github.com/user-attachments/assets/75bc0532-4fbc-461e-b140-7c79f8ab2dd7)    
 
-![download-3](https://github.com/user-attachments/assets/b13449cf-cc40-4d97-a3f3-8779f01114e9)     Certificate # : GR671479925CL
+![download-3](https://github.com/user-attachments/assets/b13449cf-cc40-4d97-a3f3-8779f01114e9)    
 
 
 <h2> 🤳 Connect with me:</h2>
