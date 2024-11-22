@@ -26,7 +26,9 @@ IT Professional and coffee snob .
 
 <h2> Certifications </h2> 
 
-![twitter_thumb_201604_CompTIA_A_2B](https://github.com/user-attachments/assets/d85f8eb2-8e8e-4737-8622-a0a1ca149869)  ![download-2](https://github.com/user-attachments/assets/75bc0532-4fbc-461e-b140-7c79f8ab2dd7)            ![download-3](https://github.com/user-attachments/assets/b13449cf-cc40-4d97-a3f3-8779f01114e9)     
+![815__52243](https://github.com/user-attachments/assets/45c3624a-1fa8-42f0-9288-961386a29f56)
+![download-2](https://github.com/user-attachments/assets/75bc0532-4fbc-461e-b140-7c79f8ab2dd7)      
+![download-3](https://github.com/user-attachments/assets/b13449cf-cc40-4d97-a3f3-8779f01114e9)     
 
 
 <h2> 🤳 Connect with me:</h2>
