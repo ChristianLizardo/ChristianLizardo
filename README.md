@@ -1,6 +1,4 @@
-<h1>Hi, I'm Christian! 
-
-IT professional with a passion for technology and a deep appreciation for a good cup of coffee
+<h1>Hi, I'm Christian! IT professional with a passion for technology and a deep appreciation for a good cup of coffee
                    
   <br/><a href="https://github.com/christianlizardo"></a>
 
