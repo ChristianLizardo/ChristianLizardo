@@ -29,7 +29,11 @@
 
 ![IMG_1478](https://github.com/user-attachments/assets/3f2155f2-a8ef-4f19-a27a-cf745c1471e8)
 
-[CompTIA.Network+.ce.certificate.3 (1).pdf](https://github.com/user-attachments/files/17893736/CompTIA.Network%2B.ce.certificate.3.1.pdf)  
+
+
+![IMG_1474 (1)](https://github.com/user-attachments/assets/88c8ef96-25cf-4b9a-84e9-66380e5cdf3c) 
+
+
 
 ![download-3](https://github.com/user-attachments/assets/b13449cf-cc40-4d97-a3f3-8779f01114e9)    
 
