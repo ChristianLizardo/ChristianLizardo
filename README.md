@@ -27,7 +27,7 @@
 
 <h2> Certifications </h2> 
 
-![IMG_1474](https://github.com/user-attachments/assets/cb04fbd4-b788-4b9c-a040-601fe66c35c8)
+![IMG_1478](https://github.com/user-attachments/assets/3f2155f2-a8ef-4f19-a27a-cf745c1471e8)
 
 [CompTIA.Network+.ce.certificate.3 (1).pdf](https://github.com/user-attachments/files/17893736/CompTIA.Network%2B.ce.certificate.3.1.pdf)  
 
