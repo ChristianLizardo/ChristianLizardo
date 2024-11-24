@@ -1,3 +1,7 @@
+![Information-technology-1](https://github.com/user-attachments/assets/3f116169-e587-4279-ba2a-4a2d1df2a417)
+
+
+
 <h1>Hi, I'm Christian! IT professional with a passion for technology and a deep appreciation for a good cup of coffee
                    
   <br/><a href="https://github.com/christianlizardo"></a>
