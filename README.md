@@ -3,7 +3,10 @@
 
 
 <h1>Hi, I'm Christian! IT professional with a passion for technology and a deep appreciation for a good cup of coffee
-                   
+
+
+I'm an aspiring IT professional passionate about technology, problem-solving, and continuous learning. With hands-on experience in Microsoft Azure, Active Directory, and cybersecurity projects like building live honeynets, I’m dedicated to mastering the tools and techniques that drive innovation and security in IT. When I’m not diving into tech projects, you’ll find me perfecting my coffee brewing skills—because great ideas start with great coffee.
+
   <br/><a href="https://github.com/christianlizardo"></a>
 
 <h2>👨‍💻 Information Technology Projects </h2>
