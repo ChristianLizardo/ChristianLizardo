@@ -13,7 +13,6 @@
 - <b>Configuring Active Directory Within Azure </b>
   - [Configure Active Directory ](https://github.com/christianlizardo/configuring-active-directory) <b><i> </b></i>
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Basic Installation](https://github.com/ChristianLizardo/osTicket-Basic-Installation)
   - [osTicket: Post- Installation Configuration ](https://github.com/ChristianLizardo/osTicket-Post--Installation-Configuration ) 
   - [Ticket Lifecycle ](https://github.com/ChristianLizardo/osTicket-Ticket-Lifecycle) 
     
