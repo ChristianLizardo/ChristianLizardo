@@ -34,8 +34,7 @@
 ![IMG_1474 (1)](https://github.com/user-attachments/assets/88c8ef96-25cf-4b9a-84e9-66380e5cdf3c) 
 
 
-
-![download-3](https://github.com/user-attachments/assets/b13449cf-cc40-4d97-a3f3-8779f01114e9)    
+![IMG_1476](https://github.com/user-attachments/assets/02544e46-08a1-49d3-adf7-0097f553609c)
 
 
 <h2> 🤳 Connect with me:</h2>
