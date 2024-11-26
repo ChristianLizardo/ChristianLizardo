@@ -23,7 +23,7 @@
 <h2>Cyber Security Projects </h2> 
 
 - <b>Microsoft Azure</b>
-  - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure) <b><i> </b></i> 
+  - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure)
 
 <h2> Certifications </h2> 
 
