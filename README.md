@@ -20,9 +20,10 @@
   - [osTicket: Post- Installation Configuration ](https://github.com/ChristianLizardo/osTicket-Post--Installation-Configuration ) 
   - [Ticket Lifecycle ](https://github.com/ChristianLizardo/osTicket-Ticket-Lifecycle) 
     
-<h2>Cyber Security Projects </h2> 
+<h2> Cyber Security Projects </h2> 
 
 - <b>Microsoft Azure</b>
+
   - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure)
 
 <h2> Certifications </h2> 
