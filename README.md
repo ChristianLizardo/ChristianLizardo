@@ -25,6 +25,7 @@
 - <b>Microsoft Azure</b>
 
   - [Creating a Live Honeynet in Azure](https://github.com/ChristianLizardo/Creating-a-Live-Honeynet-in-Azure)
+  - [ Full Vunerability Management Implementation]( https://github.com/ChristianLizardo/vulnerability-management-program) 
 
 <h2> Certifications </h2> 
 
